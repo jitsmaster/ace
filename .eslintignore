@@ -1,0 +1,13 @@
+lib/ace/mode/css/*
+lib/ace/mode/coffee/*
+lib/ace/mode/html/*
+lib/ace/mode/javascript/*
+lib/ace/mode/json/*
+lib/ace/mode/lua/*
+lib/ace/mode/php/*
+lib/ace/mode/xml/*
+lib/ace/mode/xquery/*
+lib/ace/mode/xquery.js
+lib/ace/test/asyncjs/
+lib/ace/lib/es5-shim.js
+**/* *
